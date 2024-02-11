@@ -4,7 +4,7 @@ go 1.21.4
 
 require (
 	cloud.google.com/go/storage v1.37.0
-	github.com/HMasataka/config v0.0.0-20240121091936-b12f891a7c3e
+	github.com/HMasataka/config v0.0.0-20240211031241-f215aab693e9
 	github.com/rs/zerolog v1.32.0
 )
 

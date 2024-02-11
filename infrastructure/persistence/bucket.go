@@ -18,9 +18,9 @@ type bucketRepository struct {
 	storageClient *storage.Client
 }
 
-func NewBucketRepository(cfg *config.Config, storageClient *storage.Client) repository.BucketRepository {
+func NewBucketRepository(cfg *config.GcsConfig, storageClient *storage.Client) repository.BucketRepository {
 	return &bucketRepository{
-		bucketName:    cfg.GcsBucketName,
+		bucketName:    cfg.BucketName,
 		storageClient: storageClient,
 	}
 }

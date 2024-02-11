@@ -12,6 +12,8 @@ cloud.google.com/go/storage v1.37.0/go.mod h1:i34TiT2IhiNDmcj65PqwCjcoUX7Z5pLzS8
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/HMasataka/config v0.0.0-20240121091936-b12f891a7c3e h1:oC4jaU+hHqbpIOe67OOorz5zQgzS5DjCgPVmK+Ne+4I=
 github.com/HMasataka/config v0.0.0-20240121091936-b12f891a7c3e/go.mod h1:XGEVJxt9noItlcGDN96BDSAGyGZHOFtPFMsK4tVMQOM=
+github.com/HMasataka/config v0.0.0-20240211031241-f215aab693e9 h1:X/CLVmA/9RylMGuC5sr6MPZqSqy0cJ2wb6aExC6wLJc=
+github.com/HMasataka/config v0.0.0-20240211031241-f215aab693e9/go.mod h1:XGEVJxt9noItlcGDN96BDSAGyGZHOFtPFMsK4tVMQOM=
 github.com/caarlos0/env/v9 v9.0.0 h1:SI6JNsOA+y5gj9njpgybykATIylrRMklbs5ch6wO6pc=
 github.com/caarlos0/env/v9 v9.0.0/go.mod h1:ye5mlCVMYh6tZ+vCgrs/B95sj88cg5Tlnc0XIzgZ020=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
